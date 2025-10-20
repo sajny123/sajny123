@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi!
+I'm Sajid, I am full-stack developer with a strong interest in machine learning. 
 
-<!--
-**sajny123/sajny123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm currently working on
+I am currently working on a UVA AI assistant
 
-Here are some ideas to get you started:
+### What I'm currently learning
+I am currently learning SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology Stack
+Languages: Python, Java, Javascript, C++, HTML/CSS
+Frameworks & Libraries: React, Node.js, Express.js, Mongoose, numpy, pandas, sci-kit learn, matplotlib, Flask, FastMCP
+Tools: Git, JWT
+
