@@ -1,11 +1,11 @@
 ## Hi!
-I'm Sajid, I am full-stack developer with a strong interest in machine learning. 
+I'm Sajid, I am a full-stack developer with a strong interest in machine learning. 
 
 ### What I'm currently working on
-I am currently working on a UVA AI assistant
+I am currently working on a UVA AI assistant built with Python, integrating Claude API, FastMCP servers and n8n workflow.
 
 ### What I'm currently learning
-I am currently learning SQL
+I am currently learning SQL.
 
 ### Technology Stack
 Languages: Python, Java, Javascript, C++, HTML/CSS
